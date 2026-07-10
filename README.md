@@ -2,6 +2,8 @@
 
 Small, dependency-free Python scripts for [LubeLogger](https://lubelogger.com). Each script talks to the LubeLogger API and previews its changes by default — nothing is written until you pass `--apply`.
 
+---
+
 ## Requirements
 
 - Python 3.7+ (standard library only)
